@@ -1,4 +1,4 @@
-#include <iostream> // 1 Задание
+#include <iostream> //1 
 #include <vector>
 
 int main() {
